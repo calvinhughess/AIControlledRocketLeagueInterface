@@ -1,0 +1,15 @@
+In creating the AI-Controlled Rocket League Interface, I combined my passion for gaming, especially Rocket League, 
+with my interest in artificial intelligence and computer vision. This project involved developing a script to 
+automate car control in the game. To accurately track the car, I used a green gradient mask, and the script 
+included both automated and manual controls for different gameplay scenarios. The project required the use of 
+several technologies like OpenCV, pyautogui, and Python, showcasing my programming skills and my ability to solve 
+problems in a challenging and dynamic environment. 
+
+This interface is an important part of my portfolio because it demonstrates my commitment to learning new 
+technologies and my interest in the possibilities of AI in gaming. It's a practical example of how I combine my
+personal interests with my technical skills, reflecting my journey in the fields of AI and computer science.
+Working on this project taught me about the importance of precision in AI, especially in unpredictable 
+environments like games, and the need for clear, user-friendly documentation, which is evident in the 
+detailed README file I created. Overall, this AI-Controlled Rocket League Interface is a strong representation 
+of my ability to manage complex projects, push the limits of AI applications, and my passion for creating 
+innovative and engaging technology solutions.
